@@ -1,0 +1,8 @@
+## Comandos Basicos no Git Bash
+
+* git clone https://github.com/EmersonCob/dio_desafio_github_primeiro_repositorio.git - Clonar repositório
+* cd dio_desafio_github_primeiro_repositorio - Entrar na pasta do repositório
+* git status - Verificar estado dos arquivos/diretórios
+* git add . - Adicionar todos os arquivos/diretórios
+* git commit -m "Inclusão das anotãções do curso de Git/GitHub" - Comitar informando mensagem
+* git push origin main - Enviar arquivos/diretórios para o repositório remoto
